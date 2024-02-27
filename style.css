@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(169, 169, 169);
+    color: white
+}
+.header {
+    color: white;
+    background-color: black;
+    overflow: hidden;
+    height: 50px;
+    width: 5000;
+    position: absolute;
+    top: 0px;
+    left: -10px;
+}
+#header-a{
+    position: absolute;
+    font-size: 27px;
+    font-weight: bold;
+    top: 10px;
+    left: 15px;
+}
+#header-b{
+    position: absolute;
+    font-size: 27px;
+    font-weight: bold;
+    top: 10px;
+    left: 1085px;
+}
+#header-c{
+    position: absolute;
+    font-size: 27px;
+    font-weight: bold;
+    top: 10px;
+    left: 1165px;
+}
+#header-d{
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    top: 10px;
+    left: 1250px;
+}
+#header-e{
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    height: 30px;
+    width: 30px;
+}
+.image{
+    position: absolute;
+}
+#image-lebron{
+    top: 120px;
+    left: 700px;
+    height: 275px;
+    width: 325px; 
+}
+.box{
+    position: absolute;
+    top: 100px;
+    left: 440px;
+    background-color: darkgray;
+    width: 230px;
+    height: 200px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+#box2{
+    position: absolute;
+    top: 420px;
+    left: 465px;
+    width: 470px;
+    height: 10px;
+}
+#box3{
+    position: absolute;
+    top: 60px;
+    left: 465px;
+    width: 500px;
+    height: 10px;
+}
+h3{
+    font-size: 25px;
+}
+#box4{
+    position: absolute;
+    top: 145px;
+    left: 465px;
+    width: 500px;
+    height: 10px;
+}
+#box5{
+    position: absolute;
+    top: 390px;
+    left: 465px;
+    width: 500px;
+    height: 10px;
+}
+#box6{
+    position: absolute;
+    top: 595px;
+    left: 465px;
+    width: 500px;
+    height: 10px;
+}
+.img{
+    float: right;
+}
